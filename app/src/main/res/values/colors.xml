@@ -1,0 +1,5 @@
+<resources>
+    <color name="adam_primary">#FF5A31</color>
+    <color name="adam_background_dark">#101114</color>
+    <color name="adam_background_light">#FAFAFA</color>
+</resources>

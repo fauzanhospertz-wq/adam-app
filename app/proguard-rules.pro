@@ -1,0 +1,2 @@
+-keep class com.adam.fitness.data.** { *; }
+-keepattributes *Annotation*
